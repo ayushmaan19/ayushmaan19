@@ -98,12 +98,13 @@ I focus on:
 
 ## 📊 Engineering Signal
 
+<p>
+  <img
+  src="https://metrics.lecoq.io/ayushmaan19?template=classic&base.header=0&base.metadata=0&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%&config.timezone=Asia/Kolkata"
+/>
+</p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaan19&theme=github-dark&hide_border=true"/>
 
-<p>
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=ayushmaan19&show_icons=true&theme=github_dark&hide_border=true"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushmaan19&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
 
 ---
 
