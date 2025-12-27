@@ -26,8 +26,8 @@ I focus on:
 
 <p>
 🌐 <b>Portfolio</b>: <a href="https://ayushmaanport.dev">ayushmaanport.dev</a><br/>
-💼 <b>LinkedIn</b>: https://www.linkedin.com/in/YOUR_LINKEDIN<br/>
-💻 <b>GitHub</b>: https://github.com/ayushmaan19
+💼 <b>LinkedIn</b>: https://www.linkedin.com/in/ayushmaan-yadav-152b141b1<br/>
+💻 <b>Leetcode</b>: https://leetcode.com/u/Ayushmaan22
 </p>
 
 ---
