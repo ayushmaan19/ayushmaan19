@@ -1,11 +1,27 @@
 <!-- ===================== HERO ===================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=f:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ayushmaan%20Kumar%20Yadav&fontSize=46&fontAlignY=45&animation=fadeIn&fontColor=ffffff"/>
+<!-- HEADER -->
+<p align="center">
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=venom&color=0f2027,50:203a43,100:2c5364&height=180&section=header&text=Ayushmaan%20Kumar%20Yadav&fontSize=46&fontAlignY=45&animation=fadeIn&fontColor=ffffff"
+  />
+</p>
 
-<img
-  src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=550&color=00FF9C&width=950&lines=%24+whoami;Full-Stack+Developer;GenAI+Engineer+%7C+System+Builder;Shipping+software+that+survives+real+users;Debugging+is+just+reading+carefully"
- />
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=250&color=018c83&center=true&vCenter=true&width=800&lines=%24+whoami;Full-Stack+Developer;GenAI+Engineer+%7C+System+Builder;Shipping+software+that+survives+real+users;Debugging+is+just+reading+carefully" />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=ayushmaan19&label=visitors&color=00ff9c&style=flat-square"/>
+
+<!-- VISITOR COUNTER -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=ayushmaan19&label=visitors&color=00ff9c&style=flat-square"
+  />
+</p>
+
+<br/>
+
 
 ---
 
@@ -35,7 +51,7 @@ I focus on:
 ## ⚙️ Tech I Actually Use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,docker,git,aws,gcp&perline=7" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,react,nodejs,express,mongodb,mysql,docker,git,aws,threejs,firebase,prisma,postgres&perline=8" />
 </p>
 
 <p>
@@ -46,64 +62,16 @@ I focus on:
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
 
-## 🧪 Featured Builds (Real Work)
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-### 🏛️ LegalEase
-<b>Legal assistance platform</b>
-
-- Role-based access (citizens / lawyers)
-- Real-time chat & case workflows
-- Secure, scalable architecture
-
-<b>Stack:</b> MERN · WebSockets · RBAC  
-<b>Why:</b> Legal help without chaos
-
-</td>
-<td width="33%" valign="top">
-
-### 📚 ExamBud
-<b>AI study companion</b>
-
-- PDF → summaries → flashcards
-- Important-topic detection
-- Designed for heavy content
-
-<b>Stack:</b> Node · LLMs · Vector DB  
-<b>Why:</b> Study smarter, not longer
-
-</td>
-<td width="33%" valign="top">
-
-### 🤖 Knowledge-Base Q&A
-<b>Document intelligence engine</b>
-
-- Ask questions over PDFs
-- Retrieval-augmented generation
-- Grounded answers only
-
-<b>Stack:</b> RAG · Embeddings · LLMs  
-<b>Why:</b> Search with understanding
-
-</td>
-</tr>
-</table>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3"/>
-
 ## 📊 Engineering Signal
 
-<p>
-  <img
-  src="https://metrics.lecoq.io/ayushmaan19?template=classic&base.header=0&base.metadata=0&languages=1&languages.limit=6&languages.colors=github&languages.threshold=0%&config.timezone=Asia/Kolkata"
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaan19&theme=github-dark&hide_border=true"/>
+<p align="center">
+<img
+  src="https://metrics.lecoq.io/ayushmaan19?template=classic&base.header=0&base.metadata=0&languages=1&languages.limit=6&languages.colors=github-dark&config.timezone=Asia/Kolkata"
 />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushmaan19&theme=github-dark&hide_border=true"/>
 
 
 ---
